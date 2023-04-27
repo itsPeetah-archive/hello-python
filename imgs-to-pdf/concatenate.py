@@ -2,7 +2,7 @@ from PIL import Image
 from os import path, mkdir
 
 IMAGE_PATHS = ["input/IMG_1804.JPG",
-               "input/IMG_1808.JPG", "input/IMG_1809.JPG"]
+               "input/IMG_1808.JPG", "input/IMG_1809.JPG", "input/IMG_1810.JPG", "input/IMG_1811.JPG"]
 OUTPUT_FILENAME = "output.pdf"
 
 if __name__ == "__main__":
